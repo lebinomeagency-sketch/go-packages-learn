@@ -16,3 +16,7 @@ func secretLog() {
 func LogInfo() {
 	secretLog()
 }
+
+func SayGoodye() {
+	fmt.Println("Goodbye")
+}
